@@ -16,6 +16,6 @@ Clone the repo locally :  `git clone 'repo-url'`
 4. Now in the backend folder run the following command to start the server `npm run dev`
 5. Your nodemon server should start on port : 3000
 
-###### Frontend :
+###### Setting up Frontend :
 1. Open frontend folder and run `npm isntall` in the frontend folder in terminal,
 2. Now run `npm run dev` to start the frontend application.
